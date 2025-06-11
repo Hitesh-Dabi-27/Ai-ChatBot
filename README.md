@@ -1,5 +1,5 @@
 <h3> <u> Ai-ChatBot  </u></h3> 
-<h1><em> <amrk> Edunet Project </mark> </em>
+<h1><em> <marrk> Edunet Project </mark> </em>
 
 <h2><b> Chatbot Using ML Algorithm and NLP Toolkit</b></h2>
 <p>The  Chatbot is a Python-based chatbot that utilizes machine learning algorithms and natural language processing (NLP) techniques to provide automated assistance to users with college-related inquiries. The chatbot aims to improve the user experience by delivering quick and accurate responses to their questions.</p>
@@ -7,7 +7,7 @@
 <h3>Methodology</h3>
 The chatbot is developed using a combination of natural language processing techniques and machine learning algorithms. The methodology involves data preparation, model training, and chatbot response generation. The data is preprocessed to remove noise and increase training examples using synonym replacement. Multiple classification models are trained and evaluated to find the best-performing one. The trained model is then used to predict the intent of user input, and a random response is selected from the corresponding intent's responses. The chatbot is devoloped as a web application using Flask, allowing users to interact with it in real-time but yet to be deployed.
 
-Screenshot (87)
+S
 
 Motivation
 The motivation behind this project was to create a simple chatbot using my newly acquired knowledge of Natural Language Processing (NLP) and Python programming. As one of my first projects in this field, I wanted to put my skills to the test and see what I could create.
