@@ -24,7 +24,8 @@ You can run Chatbot Through Terminal
 
 
 
-cd College-Chatbot-Using-ML-and-NLP
+cd Ai-Chatbot
+
 
 pip install -r requirements.txt
 
