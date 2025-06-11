@@ -10,7 +10,7 @@ The chatbot is developed using a combination of natural language processing tech
 ![image](https://github.com/user-attachments/assets/f59e8cd3-4379-4785-a625-55df8c0db59f)
 
 
-<h2>Motivation
+<h2>Motivation</h2>
 <q>The motivation behind this project was to create a simple chatbot using my newly acquired knowledge of Natural Language Processing (NLP) and Python programming. As one of my first projects in this field, I wanted to put my skills to the test and see what I could create.</q>
 
 I followed a guide referenced in the project to learn the steps involved in creating an end-to-end chatbot. This included collecting data, choosing programming languages and NLP tools, training the chatbot, and testing and refining it before making it available to users.
