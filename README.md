@@ -22,7 +22,7 @@ You can run the Chatbot.ipynb which also includes step by step instructions in J
 Or
 You can run Chatbot Through Terminal
 
-git clone https://github.com/roshancharlie/College-Chatbot-Using-ML-and-NLP.git
+
 
 cd College-Chatbot-Using-ML-and-NLP
 
