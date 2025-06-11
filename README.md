@@ -1,4 +1,5 @@
-<h1> Ai-ChatBot  <i> Edunet Project </i></h1>
+<h3> Ai-ChatBot  
+<h1><i> Edunet Project </i></h1>
 
 <h2><b> Chatbot Using ML Algorithm and NLP Toolkit</b></h2>
 <p>The  Chatbot is a Python-based chatbot that utilizes machine learning algorithms and natural language processing (NLP) techniques to provide automated assistance to users with college-related inquiries. The chatbot aims to improve the user experience by delivering quick and accurate responses to their questions.</p>
